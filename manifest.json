@@ -1,0 +1,7 @@
+{
+  "id": "tetoris",
+  "name": "TETORIS",
+  "kind": "dqn",
+  "description": "리플레이를 사전 모방학습한 지운 줄 수와 공격량을 보상으로 한 DQN 모델",
+  "entry": "agent.py"
+}
